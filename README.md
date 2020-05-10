@@ -23,6 +23,8 @@ Question: WHEN I view the structure of the HTML elements
 		  THEN I find that the elements follow a logical structure independent of styling and positioning 
 		  
 Answer: 
+- grouped the properties by containers.
+- merged the h1, h2, h3 properties
 _____________________________________________________________________________________________________
 
 Question: WHEN I view the image elements
@@ -34,8 +36,8 @@ Answer:
 _____________________________________________________________________________________________________
 WHEN I view the heading attributes
 THEN they fall in sequential order
-- merged the h1, h2, h3 properties
-- grouped the properties by containers.
+- rearranged the h1, h2, h3 properties
+
 _____________________________________________________________________________________________________
 WHEN I view the title element
 THEN I find a concise, descriptive title  
